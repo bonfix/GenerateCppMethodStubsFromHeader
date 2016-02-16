@@ -1,0 +1,15 @@
+Field::Field(){}
+{
+	
+}
+
+Field::Field(QString name):name(name),type(0){}
+{
+	
+}
+
+Field::Field(QString name, int type):name(name),type(type){}
+{
+	
+}
+
